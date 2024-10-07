@@ -661,14 +661,21 @@ h3.my-profession
     .footer-bottom .divider {
       display: none;
     }
+    .main-content
+    {
+       padding-left:0;
   }
-  
+}
 @media (max-width:1199px)
 {
     .section .container
     {
         padding-top: 70px;
     }
+    .main-content
+    {
+       padding-left:0;
+  }
     .aside.open{
         left: 0 ;
     }
@@ -723,6 +730,10 @@ h3.my-profession
         right:-35px;
         bottom: -52px;
     }
+    .main-content
+    {
+       padding-left:0;
+  }
 }
 @media (max-width:767px)
 {
@@ -745,4 +756,8 @@ h3.my-profession
         right:-165px;
         bottom: -52px;
     }
+    .main-content
+    {
+       padding-left:0;
+  }
 }
