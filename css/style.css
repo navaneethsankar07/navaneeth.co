@@ -505,7 +505,7 @@ h3.my-profession
 
 .service .service-item .service-item-inner:hover
 {
-    box-shadow: 0 0 20px var(--efect-color)
+    box-shadow: 0 0 20px var(--effect-color)
 }
 .service .service-item .service-item-inner .icon
 {
