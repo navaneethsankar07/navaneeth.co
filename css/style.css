@@ -299,7 +299,7 @@ body {
 .hover-image {
     position: absolute;
   top: 11px;
-  left: 55px;
+      left: 113px;
     opacity: 0; /* Hide the hover image by default */
   }
   .home-img:hover .hover-image {
@@ -759,5 +759,8 @@ h3.my-profession
     .main-content
     {
        padding-left:0;
+  }
+  .hover-image{
+    left:55px;
   }
 }
