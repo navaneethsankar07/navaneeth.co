@@ -298,8 +298,8 @@ body {
 }
 .hover-image {
     position: absolute;
-    top: 25px;
-    left: 110px;
+  top: 11px;
+  left: 55px;
     opacity: 0; /* Hide the hover image by default */
   }
   .home-img:hover .hover-image {
